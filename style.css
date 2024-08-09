@@ -75,3 +75,16 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+.granulado{
+    width: 390px;
+}
+.liquido{
+    width: 270px;
+}
+.organico{
+    width: 380px;
+}
+.minerais{
+    width: 400px;
+}
